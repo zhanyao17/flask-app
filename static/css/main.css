@@ -1,0 +1,63 @@
+body{
+  margin: 2;
+  font-family: sans-serif;
+}
+
+table, td, th {
+  border: 1px solid #aaa;
+}
+
+table, td, th {
+  border: 1px solid #aaa;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+th {
+  height: 30px;
+}
+
+td {
+  text-align: center;
+  padding: 5px;
+}
+
+form {
+  width: 40%;
+  margin: 2% auto;
+}
+
+input[type=text]{
+  width: 75%;
+  height: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+
+}
+
+input[type=submit]{
+  /* posiiton */
+  width: 25%;
+  height: 25px;
+
+  /* style */
+  background-color: rgb(85, 125, 226);
+  border-radius: 30px;
+  border: 2px solid rgb(85, 125, 226);
+  color: white;
+}
+
+
+#content {
+  width: 70%;
+}
+
+input[type=text]{
+  right: 30px;
+  top: -40px;
+
+}
